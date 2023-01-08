@@ -1,0 +1,75 @@
+html{
+  height: 100%;
+}
+
+body{
+  height: 100%;
+}
+
+
+.card{
+  border: none;
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  margin-top: 120px;
+}
+
+.logo{
+  height: 85px;
+  width: 85px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.text{
+  font-size: 30px;
+  font-family: Ebrima;
+  margin-top: 0px;
+  padding-top: 0px;
+  margin-bottom: 15px;
+}
+
+.input{
+  width: 58%;
+  height: 40px;
+  font-size: 17px;
+  padding-left: 8px;
+  border: 1px solid rgb(184, 182, 182);
+  border-radius: 4px;
+  font-family: Ebrima;
+
+}
+
+.input:focus{
+  font-size: 17px;
+  border: 2px solid rgb(36, 184, 204);
+  outline: none;
+  font-family: Ebrima;
+}
+
+.check{
+  margin-top: 7px;
+  font-family: Ebrima;
+  color: rgb(39, 38, 38);
+  font-weight: 30%;
+}
+
+.btn{
+  width: 60%;
+  background-color: rgb(69, 138, 222);
+  height: 40px;
+  font-size: 17px;
+  border-radius: 4px;
+  font-family: Ebrima;
+  text-align: center;
+  border: none;
+  margin-top: 15px;
+  color: white;
+  font-weight: inherit;
+}
+
+.footer{
+  margin-top: 35px;
+}
+
